@@ -22,3 +22,10 @@ color:blueviolet;
 {
 background-color:cornflowerblue
 }
+
+div {
+  width: 300px;
+  border: 15px solid royalblue;
+  padding: 50px;
+  margin: 20px;
+}
