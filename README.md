@@ -1,14 +1,18 @@
-#Name of the Project
-# Violet's Portfolio
-Author Name
+# Name of the Project
+Violet's Portfolio
+## Author Name
 Violet Njuguna
-##Description of Project
-My Bio 
-##Technologies Used
-##Complete Setup instructions
--git clone https://github.com/vnjuguna/Week-1-ip.git
--open the cloned Code on Vs Code
--Run with Live Server
-##Live Link
-##License information with a copyright and date
+## Description of Project
+My Bio and Programming Portfolio
+## Technologies Used
+- HTML
+- CSS
+- GIT and GITHUB
+## Complete Setup Instructions
+- Git clone https://github.com/vnjuguna/Week-1-ip.git
+- Open the cloned Code on Vs Code
+- Run with Live Server
+## Live Link
+https://vnjuguna.github.io/Week-1-ip/
+## Licence information with a copyright and date
 (c) 2022 Violet
