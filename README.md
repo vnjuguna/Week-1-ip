@@ -17,4 +17,4 @@ https://vnjuguna.github.io/Week-1-ip/
 ## Known Bugs
 No known bugs
 ## Licence information with a copyright and date
-(c) 2022 Violet Njuguna
+(c) 2022 Violet Njuguna, Version date 9th September 2022.
